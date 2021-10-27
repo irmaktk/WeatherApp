@@ -1,5 +1,5 @@
 package com.example.weatherapp.data.database
-
+//
 import com.example.weatherapp.domain.Forecast
 import com.example.weatherapp.domain.ForecastList
 
